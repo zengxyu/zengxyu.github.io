@@ -10,11 +10,13 @@ ___
 
 &nbsp;
 
-I am a student at Bonn University about to obtain my master's degree in Computer Science with a major in Robotics and Intelligent Systems, under the supervision of Prof. Maren Bennewitz.
+I am a student at <a href="https://www.uni-bonn.de/en">Bonn University</a> about to obtain my master's degree in Computer Science
+at <a href="https://www.hrl.uni-bonn.de/">Humanoid Robots Lab</a>,
+under the supervision of <a href="https://www.hrl.uni-bonn.de/Members/maren"> Prof. Maren Bennewitz</a>.
 
 My research interest in on Mobile Robot Navigation, reinforcement learning and vision.
 
-I obtained my Bachelor degree in Software Engineering from Shandong University in 2018.
+I obtained my Bachelor degree in Software Engineering from <a href="https://www.en.sdu.edu.cn/">Shandong University</a> in 2018.
 
 ___
 
