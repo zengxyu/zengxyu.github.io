@@ -20,3 +20,17 @@ ___
 # <center>Publications</center>
 
 ___
+
+<div style="height:200px;">
+<div style="width:30%; height:auto; float:left; display:inline; margin-top: 1%"> <img src="../images/introduction2.png" alt=""></div>
+<div style="width:60%; height:auto; float:left; display:inline; margin-left: 5%">
+<h3>Deep Reinforcement Learning for Next-Best-View Planning in Agricultural Applications</h3>
+<p><b>Xiangyu Zeng</b>, Tobias Zaenker, Maren Bennewitz </p>
+<p>ICRA 2022</p>
+<p> <a href="https://www.hrl.uni-bonn.de/publications/zeng22icra.pdf">paper</a>  / <span>code</span> / <span>video</span> / <span>presentation</span> </p>
+
+</div>
+
+
+</div>
+
