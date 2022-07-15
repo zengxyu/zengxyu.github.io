@@ -1,8 +1,22 @@
 ---
 layout: page
-title: About
+title: About me
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+___
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+# <center>Xiangyu Zeng</center>
+
+___
+
+I am a student at Bonn University about to obtain my master's degree in Computer Science with a major in Robotics and Intelligent Systems, under the supervision of Prof. Maren Bennewitz.
+
+My research interest in on Mobile Robot Navigation, reinforcement learning and vision.
+
+I obtained my Bachelor degree in Software Engineering from Shandong University in 2018.
+
+___
+
+# <center>Publications</center>
+
+___
