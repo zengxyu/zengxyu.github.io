@@ -56,3 +56,26 @@ ___
 ___
 
 
+___
+
+# <center>Projects</center>
+
+<div style="border: 0.5px solid gray;width:200px;height:0;margin-left: 50%; transform: translate(-50%,-50%);"></div>
+&nbsp;
+
+___
+
+<div style="height:220px;">
+<div style="width:30%; height:auto; float:left; display:inline; margin-top: 2%"> <img src="../images/introduction_capsicum_segmentation.png" alt=""></div>
+<div style="width:60%; height:auto; float:left; display:inline; margin-left: 5%">
+<h3>Capsicum Segmentation</h3>
+<p>Based on the semantic segmentation network DeepLabv3 and the existing dataset
+Capsicum Dataset and self-annotated datasets trained a segmentation model that can achieve good
+results. </p>
+<p>
+<a href="https://github.com/zengxyu/CapsicumSegmentation.git">code</a> </p>
+</div>
+</div>
+
+___
+
