@@ -8,6 +8,13 @@ ___
 # <center>Xiangyu Zeng</center>
 <div style="border: 0.5px solid gray;width:200px;height:0;margin-left: 50%; transform: translate(-50%,-50%);"></div>
 
+<div style="display: block">
+    <p style="text-align: right;">
+        <a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}" target="_blank"><strong>> Download Resume
+            PDF</strong></a>
+    </p>
+</div>
+
 &nbsp;
 
 I am a student at <a href="https://www.uni-bonn.de/en">Bonn University</a> about to obtain my master's degree in Computer Science
@@ -19,6 +26,8 @@ My research interest in on Mobile Robot Navigation, reinforcement learning and v
 I obtained my Bachelor degree in Software Engineering from <a href="https://www.en.sdu.edu.cn/">Shandong University</a> in 2018.
 
 ___
+
+
 
 # <center>Publications</center>
 
